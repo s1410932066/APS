@@ -1,0 +1,20 @@
+<resources>
+<!--Toolbar與Menu顏色與大小  android:theme="@style/ToolbarTheme"-->
+    <style name="ToolbarTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="actionMenuTextColor">#ffffff</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:background">@color/black</item>
+    </style>
+<!--Title大小  app:titleTextAppearance="@style/TitleTextSize"  -->
+    <style name="TitleTextSize" parent="@style/Base.TextAppearance.AppCompat.Title">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+<!--    <style name="ToolbarPopupTheme" parent="@style/ThemeOverlay.AppCompat.Light">-->
+<!--        <item name="actionOverflowMenuStyle">@style/OverflowMenuStyle</item>-->
+<!--    </style>-->
+<!--    <style name="OverflowMenuStyle" parent="Widget.AppCompat.Light.PopupMenu.Overflow">-->
+<!--        <item name="overlapAnchor">false</item>  &lt;!&ndash;讓跳出的選項視窗不會遮住Toolbar&ndash;&gt;-->
+<!--    </style>-->
+
+</resources>
