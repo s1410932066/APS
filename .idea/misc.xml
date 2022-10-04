@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1385" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/drawable/aps_spinner.xml" value="0.1385" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/drawable/bg_button.xml" value="0.1335" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/drawable/bg_dot_line.xml" value="0.1045" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/drawable/bg_dot_line_vertical.xml" value="0.1045" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/drawable/bg_edittext.xml" value="0.1335" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/drawable/bg_edittext_focused.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/drawable/bg_edittext_normal.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/drawable/bg_solid_line.xml" value="0.1045" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/drawable/button.xml" value="0.1385" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/drawable/button2.xml" value="0.1385" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/drawable/button_corners.xml" value="0.1385" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/drawable/button_function_list.xml" value="0.1495" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/drawable/frame.xml" value="0.1385" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1385" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/drawable/radio_button.xml" value="0.3035" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/drawable/radio_button_left.xml" value="0.3035" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/drawable/radio_button_left1.xml" value="0.3035" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/drawable/radio_button_left_bg.xml" value="0.3035" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/drawable/radio_button_mid.xml" value="0.3035" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/drawable/radio_button_mid1.xml" value="0.3035" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/drawable/radio_button_mid_bg.xml" value="0.3035" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/drawable/radio_button_right.xml" value="0.3035" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/drawable/radio_button_right1.xml" value="0.3035" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/drawable/radio_button_right_bg.xml" value="0.3035" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/drawable/radio_text_color.xml" value="0.3035" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/activity_Login.xml" value="0.28125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/activity_data_of_day_content.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/activity_login.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/activity_menu.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/activity_schedule_of_day.xml" value="0.3374094202898551" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/activity_schedule_of_day_content.xml" value="0.3375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/activity_schedule_query.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/activity_schedule_query_data.xml" value="0.3375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/activity_schedule_query_data_content.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/activity_schedule_query_send.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/activity_setup.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/activity_today_data_content.xml" value="0.1671875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/content_fragment.xml" value="0.28125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/fragment_1.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/fragment_2.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/fragment_content_.xml" value="0.15052083333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/fragment_content_1.xml" value="0.19672131147540983" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/fragment_content_1pre_manu.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/fragment_content_2.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/fragment_content_2current_stage.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/fragment_content_3.xml" value="0.28125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/fragment_content_3next_part.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/fragment_content_4.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/fragment_content_4get_so_data.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/fragment_content_5.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/fragment_today_2.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/function_table_fragment_1.xml" value="0.3375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/item_content_current_stage_recyclerview.xml" value="0.15052083333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/item_content_get_so_id_data_recyclerview.xml" value="0.5" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/item_content_next_part_recyclerview.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/item_content_pre_manu_recyclerview.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/item_content_recyclerview.xml" value="0.32670454545454547" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/item_content_sales_order_recyclerview.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/item_query_recyclerview.xml" value="0.28125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/item_recyclerview.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/item_today_recyclerview.xml" value="0.2848731884057971" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/menu.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/my_pagers.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/my_pagers2.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/query_item_recyclerview.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/today_fragment_2.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/layout/today_item_recyclerview.xml" value="0.3375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/menu/toolbar1.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/APS/app/src/main/res/menu/toolbar_menu.xml" value="0.15052083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
